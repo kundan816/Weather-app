@@ -214,6 +214,7 @@ async function fetchSearchWeatherInfo(city)
     }
     catch(err) {
         console.log(err);
+        
     }
 }
 
